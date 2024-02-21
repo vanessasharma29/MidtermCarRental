@@ -5,6 +5,7 @@ package midtermcarrental;
  * models a car rental customer.
  * Created for midterm exam.
  * @author dancye, 2023
+ *@Modifier Vanessa Sharma
  */
 public class Customer 
 {
